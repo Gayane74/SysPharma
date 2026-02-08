@@ -1,0 +1,17 @@
+# Backend / Node.js
+**/node_modules/
+**/dist/
+backend/.env
+backend/npm-debug.log*
+
+# IDEs & OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+*.swp
+*.log
+
+# On ignore les dossiers de build s'ils sont à la racine
+build/
+node_modules/
